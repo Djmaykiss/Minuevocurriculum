@@ -49,6 +49,8 @@ header figure {
 header figure img {
   border-radius: 50%;
   border: solid #fff;
+  margin: 2rem;
+  align-items: center;
   height: 175px;
   width: 150px;
   position: relative;
